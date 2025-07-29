@@ -43,6 +43,5 @@ I am currently pursuing a B.Tech in Artificial Intelligence and Data Science at 
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/manya-kanojia](https://www.linkedin.com/in/manya-kanojia) *(Update with your actual link if different)*  
-- Email: yourname@email.com *(Replace with your actual email if you'd like to include it)*
+- LinkedIn: [linkedin.com/in/manya-kanojia](https://www.linkedin.com/in/manya-kanojia-7a0334290/)
 
