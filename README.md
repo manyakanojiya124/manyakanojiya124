@@ -1,16 +1,48 @@
-## Hi there 👋
+# Manya Kanojia
 
-<!--
-**manyakanojiya124/manyakanojiya124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently pursuing a B.Tech in Artificial Intelligence and Data Science at GITM - Gurugram University. I have a strong interest in solving real-world problems through technology and actively participate in hackathons, inter-college technical competitions, and other co-curricular activities.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+### Artificial Intelligence & Machine Learning
+- scikit-learn, TensorFlow, Pandas, NumPy
+
+### Frontend Development
+- React.js, Next.js, TailwindCSS, HTML, CSS, JavaScript
+
+### Backend Development
+- Node.js, Express.js, REST APIs
+
+### Databases
+- MongoDB  
+- *Currently Learning:* PostgreSQL, Prisma ORM
+
+### IoT and Hardware (Conceptual)
+- Arduino, Sensors, MQTT
+
+### Programming Languages
+- Python, JavaScript, C++
+
+### Tools and Platforms
+- Git, GitHub, Visual Studio Code
+
+### Currently Exploring
+- Docker, AWS, tRPC, Nx/Turborepo, Microservices
+
+---
+
+## Objectives
+
+- Build scalable, AI-driven applications that address real-world challenges  
+- Collaborate on impactful open-source and academic projects  
+- Continuously learn and apply emerging technologies in practical scenarios
+
+---
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/manya-kanojia](https://www.linkedin.com/in/manya-kanojia) *(Update with your actual link if different)*  
+- Email: yourname@email.com *(Replace with your actual email if you'd like to include it)*
+
